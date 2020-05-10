@@ -1,2 +1,2 @@
 # JUnit-test
-Software engineering assignment
+Creating test case in Java using Eclipse so a developer can check multiple test cases easily.
